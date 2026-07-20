@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Prarthana Patil 👋
 
-<!--
-**Prarthanapatil890/Prarthanapatil890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering (AI & ML) Graduate
 
-Here are some ideas to get you started:
+I'm an AI & ML enthusiast focused on building intelligent applications using Machine Learning, Deep Learning, Large Language Models (LLMs), Generative AI, and AWS. I enjoy developing scalable AI solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+
+## ⚙️ Tech Stack
+
+**Languages:** Python, SQL
+
+**AI/ML:** Scikit-learn, TensorFlow, Pandas, NumPy, Generative AI, LLMs, RAG
+
+**Cloud:** AWS (EC2, S3, RDS, Lambda)
+
+## 🌱 Currently Learning
+
+- AI Agents
+- MLOps
+- Advanced LLM Applications
+
+## 📫 Connect with Me
+
+- Email: *patilprarthana890@gmail.com*
