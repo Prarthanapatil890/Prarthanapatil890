@@ -1,4 +1,6 @@
-# Hi, I'm Prarthana Patil 👋
+<p align="center">
+  <img src="banner.png" alt="GitHub Banner" width="100%">
+</p>
 
 🎓 Computer Science Engineering (AI & ML) Graduate
 
